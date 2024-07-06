@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajan-poojary&label=Profile%20views&color=0e75b6&style=flat" alt="srajan-poojary" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://647448d57d4ce043cc31a0a3--effervescent-llama-d95969.netlify.app/](https://647448d57d4ce043cc31a0a3--effervescent-llama-d95969.netlify.app/)
-
-- 📫 How to reach me **srajanpoojary@yahoo.com**
+- 📫 How to reach me **srajanpoojary2000@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1QJ1x7-MbKkKwginLNh0X0uihwc-3m593Ml5nlqnQ-U0/edit?usp=sharing](https://docs.google.com/document/d/1QJ1x7-MbKkKwginLNh0X0uihwc-3m593Ml5nlqnQ-U0/edit?usp=sharing)
 
